@@ -1,3 +1,4 @@
-Token = "NzQ1NjI4MDIyOTg3NTU0ODM3.Xz0iNQ.uyxBhCEu-HP6zmbMoiJltruEMuw"
+Token = "NzQ1NjI4MDIyOTg3NTU0ODM3.Xz0iNQ.VFcIoU_IEdk3RdMsDL_915Qy8B8"
 Client Id = "745628022987554837"
 Secret = "65Vg-KEmNCKtcRO9Xqr3haERQOl2V-YU"
+Link: Link: "https://discord.com/oauth2/authorize?client_id=745628022987554837&scope=bot&permissions=8"

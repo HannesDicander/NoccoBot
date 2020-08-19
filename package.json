@@ -1,0 +1,22 @@
+{
+  "name": "noccobot",
+  "version": "0.0.1",
+  "description": "I mean nocco is good but",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannesDicander/NoccoBot.git"
+  },
+  "author": "Hannes Nordludn Dicander",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/HannesDicander/NoccoBot/issues"
+  },
+  "homepage": "https://github.com/HannesDicander/NoccoBot#readme"
+}
